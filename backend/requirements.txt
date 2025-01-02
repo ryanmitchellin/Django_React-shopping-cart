@@ -1,0 +1,7 @@
+Django
+djangorestframework
+mysql-connector-python
+mysqlclient
+django-cors-headers
+
+Pillow
